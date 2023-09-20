@@ -1,0 +1,108 @@
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\appsettings.Development.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\appsettings.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.exe
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.deps.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.runtimeconfig.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.pdb
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.AssemblyReference.cache
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfoInputs.cache
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfo.cs
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.ApiCatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCatalogo.props
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCatalogo.props
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCatalogo.props
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets.build.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\staticwebassets.development.json
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\scopedcss\bundle\ApiCatalogo.styles.css
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CopyComplete
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\refint\ApiCatalogo.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Humanizer.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\MySqlConnector.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\System.CodeDom.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\System.Text.Json.dll
+D:\dev\WebApi Curso\ApiCatalogo\ApiCatalogo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\appsettings.Development.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\appsettings.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.exe
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.deps.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.runtimeconfig.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.pdb
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Humanizer.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\MySqlConnector.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\System.CodeDom.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\System.Text.Json.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.AssemblyReference.cache
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfoInputs.cache
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfo.cs
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.ApiCatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCatalogo.props
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCatalogo.props
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCatalogo.props
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\scopedcss\bundle\ApiCatalogo.styles.css
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CopyComplete
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\refint\ApiCatalogo.dll
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
+E:\Dev\Criando-uma-Web-Api-C-\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
